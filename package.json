@@ -1,0 +1,18 @@
+{
+  "name": "nuxt-client-error",
+  "version": "1.0.0",
+  "description": "A module for nuxtjs. This manage errors on client-side (such as ajax error response)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nuxtjs",
+    "error",
+    "error-manage",
+    "client",
+    "ajax"
+  ],
+  "author": "shinryak",
+  "license": "MIT"
+}
