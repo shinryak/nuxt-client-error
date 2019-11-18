@@ -1,6 +1,6 @@
 {
   "name": "nuxt-client-error",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A module for nuxtjs. This manage errors on client-side (such as ajax error response)",
   "main": "main.js",
   "scripts": {
@@ -14,5 +14,13 @@
     "ajax"
   ],
   "author": "shinryak",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhchi3103/nuxt-client-error.git"
+  },
+  "bugs": {
+    "url": "https://github.com/minhchi3103/nuxt-client-error/issues"
+  },
+  "homepage": "https://github.com/minhchi3103/nuxt-client-error#readme"
 }
