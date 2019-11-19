@@ -1,6 +1,6 @@
 {
   "name": "nuxt-client-error",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A module for nuxtjs. This manage errors on client-side (such as ajax error response)",
   "main": "main.js",
   "scripts": {
