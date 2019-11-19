@@ -3,10 +3,10 @@
 A module for nuxtjs that manage client-side errors in runtime. Make it easier for catching and show exception messages by binding them to component.
 ### How to use
 #### Install
-With NPM
-`npm install nuxt-client-error`
-With Yarn
-`yarn add nuxt-client-error`
+With NPM  
+`npm install nuxt-client-error`  
+With Yarn  
+`yarn add nuxt-client-error`  
 #### Add module to nuxt.config.js
 Firstly, you need to add `nuxt-client-error` to your Nuxt config.
 ```javascript
