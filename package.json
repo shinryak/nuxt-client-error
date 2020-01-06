@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/minhchi3103/nuxt-client-error.git"
+    "url": "git+https://github.com/shinryak/nuxt-client-error.git"
   },
   "bugs": {
-    "url": "https://github.com/minhchi3103/nuxt-client-error/issues"
+    "url": "https://github.com/shinryak/nuxt-client-error/issues"
   },
-  "homepage": "https://github.com/minhchi3103/nuxt-client-error#readme"
+  "homepage": "https://github.com/shinryak/nuxt-client-error#readme"
 }
